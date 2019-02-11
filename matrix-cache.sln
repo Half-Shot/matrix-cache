@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+#
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matrix-cache", "matrix-cache.csproj", "{9BDA5F9B-ED91-4EAC-8537-14C996A9256B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix", "..\..\matrix-dotnet-sdk\Matrix\Matrix.csproj", "{0B2C02BB-C36E-41DC-B144-DB3678237E34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BDA5F9B-ED91-4EAC-8537-14C996A9256B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BDA5F9B-ED91-4EAC-8537-14C996A9256B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BDA5F9B-ED91-4EAC-8537-14C996A9256B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BDA5F9B-ED91-4EAC-8537-14C996A9256B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B2C02BB-C36E-41DC-B144-DB3678237E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B2C02BB-C36E-41DC-B144-DB3678237E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B2C02BB-C36E-41DC-B144-DB3678237E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B2C02BB-C36E-41DC-B144-DB3678237E34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
